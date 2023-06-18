@@ -1,3 +1,0 @@
-import credentials
-
-print("test")
