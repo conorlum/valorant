@@ -2,9 +2,6 @@
 # exit on error
 set -o errexit
 
-
-poetry --version
-poetry self update 1.5.1
 poetry --version
 poetry install
 
