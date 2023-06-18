@@ -2,6 +2,8 @@
 # exit on error
 set -o errexit
 
+python -m pip install --upgrade pip
+
 poetry --version
 poetry install
 
